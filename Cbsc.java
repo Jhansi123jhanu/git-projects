@@ -11,7 +11,7 @@ public class Cbsc {
     int b=s.nextInt();
     System.out.println("enter english marks");
     int c=s.nextInt();
-    System.out.println("enter science  marks");
+    System.out.println("enter zoalogy  marks");
     int d=s.nextInt();
     System.out.println("enter social  marks");
     int e=s.nextInt();
